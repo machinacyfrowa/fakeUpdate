@@ -1,0 +1,12 @@
+body {
+    background-color: #006dae;
+    margin: 0;
+    padding: 0;
+    font-family: Segoe UI Light, Segoe UI, Arial;
+    font-size: 1.5rem;
+}
+div#main {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+}
